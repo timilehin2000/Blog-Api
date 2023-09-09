@@ -10,7 +10,6 @@
     "dev": "NODE_ENV=development npx nodemon",
     "start": "NODE_ENV=production node --optimize_for_size --max_old_space_size=460 dist/app.js"
   },
-  "type": "module",
   "devDependencies": {
     "@types/cors": "^2.8.14",
     "@types/express": "^4.17.17",
