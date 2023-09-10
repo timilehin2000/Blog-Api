@@ -65,6 +65,7 @@ class PostController {
       const posts = await this.postRepositoy.findAll({
         limit: pageLimit,
         offset: skip,
+        order: [["createdAt", "DESC"]],
         where: searchParams,
       });
 
