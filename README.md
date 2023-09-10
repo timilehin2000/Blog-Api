@@ -11,7 +11,7 @@ https://documenter.getpostman.com/view/13110445/2s9YC1Wu8c
 ## Base Url
 
 ```
-https://blog-api-rwoy.onrender.com/api/v1v1
+https://blog-api-rwoy.onrender.com/api/v1
 ```
 
 ## Tools/Stack Used
